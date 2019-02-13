@@ -34,5 +34,13 @@ function random_key(): string
     return $key;
 }
 
+/*
 $key = random_key();
 var_dump($key);
+*/
+
+$alp = 'abcdefghijklmnopqrstuvwxyz';
+$key = 'lzwngfkpvreusadiyqtmcxjbho';
+
+
+
