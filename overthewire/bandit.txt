@@ -1,0 +1,22 @@
+# BANDIT 25
+
+ssh -p 2220 bandit25@bandit.labs.overthewire.org
+uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
+
+# KRYPTON 3
+
+CAESARISEASY
+
+# LEVIATHAN 2
+
+ougahZi8Ta
+
+# NATAS 16
+
+WaIHEacj63wnNIBROHeqi3p9t0m5nhmh
+
+Research topics:
+
+1. Escaping grep -i "$key" dictionary.txt without the obvious
+2. Overriding the shell in /etc/passwd from ssh
+
