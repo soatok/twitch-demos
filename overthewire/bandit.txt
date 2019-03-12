@@ -1,7 +1,7 @@
-# BANDIT 25
+## BANDIT 33
 
-ssh -p 2220 bandit25@bandit.labs.overthewire.org
-uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
+ssh -p 2220 bandit33@bandit.labs.overthewire.org
+c9c3199ddf4121b10cf581a98d51caee
 
 # KRYPTON 3
 
